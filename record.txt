@@ -1,0 +1,18 @@
+Halo Guys Welcome Back To My Channel Again, Hari Ini Gw Bakal Share Bot JS Yang Tampilan Seperti Text Dan Modals Nya 
+Sudah Saya Rapihkan, Langsung Saja Kita Ke Tutorial Pemasangan.
+
+1. Siapkan Bot Discord Yaa
+
+Ah Ikuti Aja Yaa 
+
+Set Database Di Config.json ya, sesuaikan ama data akun database kalian
+
+ubah id role di handleregist.js juga yaa
+
+Lalu kita coba jalankan
+
+eh undang dulu botnya dong
+
+lalu jalankan
+
+oke sekian video dari sayaa

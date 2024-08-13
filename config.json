@@ -1,0 +1,9 @@
+{
+    "mysql": {
+        "connectionLimit": 5,
+        "host": "103.150.221.71",
+        "user": "u5_YmxvlULZJk",
+        "password": "Fp.0mmOxR2EofHjxjqpU=MXP",
+        "database": "s5_cleveland"
+    }
+}
